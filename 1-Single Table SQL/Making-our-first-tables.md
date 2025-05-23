@@ -1,5 +1,4 @@
-# Making Our First Tables - PG4E Assignment
-
+# Autograder: Making our first tables
 This guide helps you create the PostgreSQL tables needed for grading and debugging in the **PostgreSQL for Everybody (PG4E)** course.
 
 ---
